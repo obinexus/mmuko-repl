@@ -131,7 +131,7 @@ Features are incomplete. Red-Black balancing is not implemented in this release.
 
 ## **License**
 
-MIT License (recommended—adjust as needed)
+MIT License
 
 ---
 
